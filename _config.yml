@@ -20,7 +20,7 @@ title                    : "ET Carpentries Club"
 title_separator          : "-"
 name                     : "Ethioipian Carpentries Club"
 description              : "Teaching Data and Computational Skills in Ethiopia"
-url                      : https://www.et-carpentry.org
+url                      : https://et-carpentry.io
 baseurl                  : 
 repository               : https://github.com/et-carpentry/website
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
