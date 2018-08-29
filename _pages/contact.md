@@ -11,8 +11,8 @@ Follow us on [Twitter](https://twitter.com/et-carpentries) for announcements and
 View our current work in our [Github repository](https://github.com/et-carpentry/Coordination/issues).
 
 
-## Other Groups at UF
+## Other Groups at ET
 
 * [R-Gators](http://www.r-gators.com/), the R users of ET
 * [DSIUFL](https://www.dsiufl.org/), the Data Science and Informatics Student Organization
-* [R-Ladies Addis](https://www.meetup.com/rladies-Addis/), R-Ladies Addis Ababa
+* [R-Ladies Addis](https://www.meetup.com/rladies-Addis-ababa/), R-Ladies Addis Ababa
