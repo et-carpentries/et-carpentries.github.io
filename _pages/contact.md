@@ -4,16 +4,15 @@ permalink: /contact/
 title: Contact Info
 classes: wide
 ---
-Contact our board at [ufcarpentry@gmail.com](mailto://ufcarpentry@gmail.com)
+Contact our board at [etcarpentry@gmail.com](mailto://etcarpentry@gmail.com)
 
-Follow us on [Twitter](https://twitter.com/UFCarpentries) for announcements and live-tweets of events.
+Follow us on [Twitter](https://twitter.com/et-carpentries) for announcements and live-tweets of events.
 
-View our current work in our [Github repository](https://github.com/UF-Carpentry/Coordination/issues).
+View our current work in our [Github repository](https://github.com/et-carpentry/Coordination/issues).
 
-Join our [listserv](https://lists.ufl.edu/cgi-bin/wa?A0=INFORMATICS-TEACHING-L) to stay informed about upcoming workshops and board meetings.
 
 ## Other Groups at UF
 
-* [R-Gators](http://www.r-gators.com/), the R users of UF
+* [R-Gators](http://www.r-gators.com/), the R users of ET
 * [DSIUFL](https://www.dsiufl.org/), the Data Science and Informatics Student Organization
-* [R-Ladies Gainesville](https://www.meetup.com/rladies-gainesville/), R-Ladies Gainesville
+* [R-Ladies Addis](https://www.meetup.com/rladies-Addis/), R-Ladies Addis Ababa
