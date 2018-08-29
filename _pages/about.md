@@ -24,7 +24,8 @@ classes: wide
 
 ## Mission Statement
 
-The UF Carpentries Club is a group of independent members of the UF community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. The Club is open to any member of the UF community including staff, faculty, and students, paid, and volunteer. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
+The ET Carpentries Club is a group of independent members of the Ethiopian community dedicated to providing structured pathways for our colleagues to learn computational  skills outside of the traditional university curriculum. The Club is open to any member of the Ethiopian community including staff, faculty, and students, paid, and volunteer. In addition to our 
+core computing goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
 
 ## Code of Conduct
 
@@ -34,13 +35,5 @@ We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topi
 
 Club activities are currently supported by:
 
-* [White Lab](https://www.weecology.org/tags/white-lab/)
-* [UF Informatics Institute](https://informatics.institute.ufl.edu/)
-* [UF Biodiversity Institute](https://biodiversity.institute.ufl.edu/)
-* [iDigBio](https://www.idigbio.org/)
-* [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/)
-* [UF Department of Wildlife Ecology & Conservation](http://www.wec.ufl.edu/)
+* [GIZ STEM](https://www.giz.de/en/html/index.html)
 
-We would like to thank our past supporters:
-
-* [UF Libraries](https://cms.uflib.ufl.edu/)
