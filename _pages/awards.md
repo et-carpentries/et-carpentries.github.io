@@ -12,7 +12,7 @@ As an incentive to its valued instructors and to advance its two goals of bringi
 
 Travel awards will be made for travel expenses related to the professional development of club members (regular awards) or for the advancement of club goals (special awards). Examples of  professional development for regular awards include: attending a conference, giving a talk, attending trainings and workshops, teaching at other institutions, or conducting field research.
 
-The club can reimburse travel expenses for UF business travel under the following conditions:
+The club can reimburse travel expenses for ET business travel under the following conditions:
 * A Travel Authorization is filed either through the awardee’s home department or the UF Informatics Institute.
 * All UF expenses and travel rules apply.
 * Typical allowed expenses include per-diem (excluding alcohol), airfare, car rental, hotel, and mileage.
@@ -26,7 +26,7 @@ At least twice a year, normally the start of the Spring (for spring/summer trave
 
 ## Special awards
 
-The board may vote to make special awards available for specific events the board considers important to the club goals outlined in the charter. Special awards require the approval of at least ⅔ of the board. The board will identify who among the members of the UF community are eligible to respond to special award calls. The award amount will be determined by the board and applications will be solicited and evaluated as per regular awards with the exception that a statement of the applicant’s ability to meet the board’s goals will be ranked in place of the importance of the event to the applicant’s professional development (see below for more info on evaluation of applications).
+The board may vote to make special awards available for specific events the board considers important to the club goals outlined in the charter. Special awards require the approval of at least ⅔ of the board. The board will identify who among the members of the ET community are eligible to respond to special award calls. The award amount will be determined by the board and applications will be solicited and evaluated as per regular awards with the exception that a statement of the applicant’s ability to meet the board’s goals will be ranked in place of the importance of the event to the applicant’s professional development (see below for more info on evaluation of applications).
 
 ## Evaluation of applications
 
