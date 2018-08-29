@@ -7,13 +7,7 @@ toc_sticky: true
 ---
 ## Current Board Members
 
-* Simona Picardi (president, Summer 2018)
-* Hao Ye (secretary, Summer 2018)
-* Brian Stucky
-* Justin Millar
-* Kristina Riemer
-* Matthew Collins (treasurer, Summer 2018)
-* Miao Sun
+* Mesfin Diro (president, Summer 2018)
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
 
