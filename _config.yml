@@ -101,7 +101,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Organizers of Software and Data Carpentry workshops in Ethiopia"
   location         : 
-  email            : "etcarpentry@gmail.com"
+  email            : "et-carpentries@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
