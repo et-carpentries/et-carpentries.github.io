@@ -110,7 +110,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/et-carpentries
+  slack            : https://et-carpentries.slack.com/
   gitlab           :
   google_plus      :
   keybase          :
