@@ -6,7 +6,7 @@ start: 2019-02-20 09:00:00
 end: 2019-02-20 16:30:00 
 location: "Addis Ababa University"
 website: "https://agenda.ethernet.edu.et/event/46/"
-topics: "**Ethiopian The Carpentries Day**"
+topics: "Ethiopian The Carpentries Day"
 ---
 
 
