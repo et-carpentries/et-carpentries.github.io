@@ -33,8 +33,8 @@ Elections will be held at the start of each fall semester. Candidates will self 
 1. Has participated in a Carpentry event in any capacity (learner, helper, instructor, organizer, host, or funder) at UF or elsewhere in the past 2 years.
 
 In addition, one board member is designated the “outreach board member”. The criteria for for individuals to stand for election to outreach board member are:
-1. Must not be located on the main Gainesville campus of UF.
-1. Is not required to be a member of the UF community.
+1. Must not be located on the main Gainesville campus of ET.
+1. Is not required to be a member of the ET community.
 1. Is not required to have instructed, organized, or financially supported a Carpentry workshop.
 1. Prior experience with or knowledge of the Carpentries is preferred.
 
