@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /governance/
-title: Club Governance
+title: Team Governance
 toc: true
 toc_sticky: true
 ---
