@@ -24,7 +24,7 @@ classes: wide
 
 ## Mission Statement
 
-The ET Carpentries Club is a group of independent members of the Ethiopian community dedicated to providing structured pathways for our colleagues to learn computational  skills outside of the traditional university curriculum. The Club is open to any member of the Ethiopian community including staff, faculty, and students, paid, and volunteer. In addition to our 
+The ET Carpentries Steam is a group of independent members of the Ethiopian community dedicated to providing structured pathways for our colleagues to learn computational  skills outside of the traditional university curriculum. It is open to any member of the Ethiopian community including staff, faculty, and students, paid, and volunteer. In addition to our 
 core computing goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
 
 ## Code of Conduct
