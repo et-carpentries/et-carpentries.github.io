@@ -13,11 +13,11 @@ toc_sticky: true
 
 ## Club Charter
 
-The [club charter]({{ site.baseurl }}/charter/) describes the goals of our organization, the executive Board for the club, and our procedures for making decisions.
+The [team charter]({{ site.baseurl }}/charter/) describes the goals of our organization, the executive Board for the club, and our procedures for making decisions.
 
 ## Board Meeting Minutes
 
-Meetings of the board are open to the UF community. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{ site.baseurl }}/minutes/) for links to the minutes from each board meeting.
+Meetings of the board are open to the Ethiopian community. We also keep minutes of our meetings to help make decision-making transparent. Please see the [minutes page]({{ site.baseurl }}/minutes/) for links to the minutes from each board meeting.
 
 ## Travel Awards
 
