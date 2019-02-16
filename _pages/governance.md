@@ -11,7 +11,7 @@ toc_sticky: true
 
 [Previous board members]({{ site.baseurl }}/prior_board/)
 
-## Club Charter
+## Team Charter
 
 The [team charter]({{ site.baseurl }}/charter/) describes the goals of our organization, the executive Board for the club, and our procedures for making decisions.
 
