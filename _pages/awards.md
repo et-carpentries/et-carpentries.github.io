@@ -13,8 +13,8 @@ As an incentive to its valued instructors and to advance its two goals of bringi
 Travel awards will be made for travel expenses related to the professional development of club members (regular awards) or for the advancement of club goals (special awards). Examples of  professional development for regular awards include: attending a conference, giving a talk, attending trainings and workshops, teaching at other institutions, or conducting field research.
 
 The club can reimburse travel expenses for ET business travel under the following conditions:
-* A Travel Authorization is filed either through the awardee’s home department or the UF Informatics Institute.
-* All UF expenses and travel rules apply.
+* A Travel Authorization is filed either through the awardee’s home department or the Computational science.
+* All ET expenses and travel rules apply.
 * Typical allowed expenses include per-diem (excluding alcohol), airfare, car rental, hotel, and mileage.
 * The awardee will receive a letter stating the allowed amount and appropriate information on which PeopleSoft chartfields to charge if their department is handling the Travel Authorization.
 
@@ -22,7 +22,7 @@ The board reserves the option to offer more or less than the amount requested by
 
 ## Regular awards
 
-At least twice a year, normally the start of the Spring (for spring/summer travel) and Summer semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has instructed at two or more club-organized events in the prior 2 years will be eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the ET Carpentry Club.) Applicants may request either a $250 or a $500 award depending on their needs.
+At least twice a year, normally the start of the Spring (for spring/summer travel) and Summer semesters (for fall/winter travel), the board will call for applications for travel awards. Everyone who has instructed at two or more club-organized events in the prior 2 years will be eligible to apply for an award. (This includes any Software Carpentry or Data Carpentry workshop at UF that occurred prior to the organization of the ET Carpentry Team.) Applicants may request either a $250 or a $500 award depending on their needs.
 
 ## Special awards
 
@@ -36,6 +36,6 @@ Before calling for applications, the board will select three members who will no
 * Whether the applicant has been funded before (new awardees will be preferred)
 * Applicant’s statement on the importance of the event to their professional development
 * Likelihood that the applicant will be able to find funding for all travel costs either through this award or in combination with other funds
-* Prior contributions to the Carpentry Club such as teaching, meeting attendance, and board service
+* Prior contributions to the Carpentry Team such as teaching, meeting attendance, and board service
 
 Awardees must have the unanimous support of the members of the committee. If no application received unanimous support, no awards will be made that application period.
