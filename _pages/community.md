@@ -19,7 +19,7 @@ For instructors and helpers, please see the signup sheet for opportunities to te
 * Collaborative project experiance
 * Eligibility for travel support
 
-## Connections beyond UF
+## Connections beyond ET
 
 The Carpentries are an international organization and participating in the UF
 Carpentry club can help give you the experiance and confidence you need to 
