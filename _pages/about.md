@@ -33,7 +33,7 @@ We follow the [Carpentries’ Code of Conduct](https://docs.carpentries.org/topi
 
 ## Support
 
-Club activities are currently supported by:
+Team activities are currently supported by:
 
 * [GIZ STEM](https://www.giz.de/en/html/index.html)
 
