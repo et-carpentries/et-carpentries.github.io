@@ -8,23 +8,23 @@ toc: true
 
 ## Mission Statement
 
-The UF Carpentries Club is a group of independent members of the UF community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. The Club is open to any member of the UF community including staff, faculty, and students, paid, and volunteer. We follow the Carpentries’ Code of Conduct to provide an inclusive and supportive environment for our learners and our members. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
+The ET Carpentries team is a group of independent members of the ET community dedicated to providing structured pathways for our colleagues to learn informatics skills outside of the traditional university curriculum. The team is open to any member of the ET community including staff, faculty, and students, paid, and volunteer. We follow the Carpentries’ Code of Conduct to provide an inclusive and supportive environment for our learners and our members. In addition to our core informatics goal, we seek to bring the Carpentries’ teaching methods to instructors and to develop a research community dedicated to open and reproducible science.
 
-## Club Activities
+## Team Activities
 
 Our primary activity is organizing and teaching hands-on informatics workshops using the materials and practices of the Data and Software Carpentry organizations.
 
-We provide financial, logistical, and instructional support for these workshops, build relationships with other UF organizations to facilitate our activities, and interface with the international Carpentries organizations on behalf of the UF community. Club activities are sustained through fees charged to workshop participants and contributions from UF entities that benefit from the workshops.
+We provide financial, logistical, and instructional support for these workshops, build relationships with other ET organizations to facilitate our activities, and interface with the international Carpentries organizations on behalf of the ET community. Club activities are sustained through fees charged to workshop participants and contributions from UF entities that benefit from the workshops.
 
-In addition, the club will develop and share metrics to track the impact of our activities.  The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [UF Carpentry website]({{ site.baseurl}}).
+In addition, the club will develop and share metrics to track the impact of our activities.  The team will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the [ET Carpentry website]({{ site.baseurl}}).
 
 UF has a wide network of affiliated organizations and has strong relationships with many other universities and colleges in Florida. The club will leverage these connections to help other entities become a part of the Carpentry community.
 
-## Club Board
+## Team Board
 
-The Club board is made up of seven members elected to 1-year terms. The board chair and board secretary positions will rotate every 2 months during the fall and spring semesters (2 individuals per role each semester) and at the transition to the summer break (1 individual per role during the summer). The board will identify additional roles, such as an election manager or treasurer, and appoint them as needed for appropriate durations.
+The Team board is made up of seven members elected to 1-year terms. The board chair and board secretary positions will rotate every 2 months during the fall and spring semesters (2 individuals per role each semester) and at the transition to the summer break (1 individual per role during the summer). The board will identify additional roles, such as an election manager or treasurer, and appoint them as needed for appropriate durations.
 
-To ensure that the club fulfills the mission of representing all members of the UF community, the existing board will encourage a diverse pool of board candidates based on various criteria including UF affiliation, academic or work discipline, and geographic location.
+To ensure that the club fulfills the mission of representing all members of the ET community, the existing board will encourage a diverse pool of board candidates based on various criteria including UF affiliation, academic or work discipline, and geographic location.
 
 ## Elections
 
